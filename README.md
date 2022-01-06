@@ -1,15 +1,14 @@
-
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/ALPHA-NET-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Owner💥Kushan-Owner👉Kushan/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://wa.me/+94763526124">Viduna-Nethmira</a> to make it public
     <br>
        | © |
         Reserved |
@@ -17,6 +16,7 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 </p>
 
 ----
+# [![Typing SVG](https://bit.ly/3GBaq2A)](https://github.com/TOXIC-DEVIL)
 
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
@@ -31,22 +31,21 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CL3LwqnDe8qHnMFpa8jN1U)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viduna1&repo=Alpha-Net&theme=nightowl)](https://github.com/viduna1/Alpha-Net)
   </div>
     
 ## Setup
-<div align="center">
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/JulieMwol) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/viduna1/Alpha-Net) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
-     </div>
+  
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -60,8 +59,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/viduna1/Alpha-Net
+$ cd Alpha-Net
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -70,8 +69,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/viduna1/Alpha-Net
+$ cd Alpha-Net
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -82,10 +81,10 @@ $ node bot.js
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Userbot නිසා; ඔබගේ WhatsApp ගිණුම තහනම් විය හැක.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය.
+නියත වශයෙන්ම Alpha-Net විධායකයින් වගකීම භාර නොගනී.
+අසේන පිහිටුවීමෙන්, ඔබ මෙම වගකීම් භාරගත් බව සලකනු ලැබේ.
 ```
 
 ## Developers
@@ -101,6 +100,8 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
+<br>
+මෙම ව්‍යාපෘතිය `GNU General Public License v3.0` බලපත්‍රයෙන් ආරක්ෂා කර ඇත.
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+'WhatsApp' නම, එහි වෙනස්කම් සහ ලාංඡනය Facebook හි ලියාපදිංචි වෙළඳ ලකුණු වේ. ලියාපදිංචි වෙළඳ ලකුණ සමඟ අපට කිසිදු සම්බන්ධයක් නැත
