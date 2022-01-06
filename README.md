@@ -19,12 +19,12 @@ Project created by <a href="https://wa.me/+94763526124">Viduna-Nethmira</a> to m
 # [![Typing SVG](https://bit.ly/3GBaq2A)](https://github.com/TOXIC-DEVIL)
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="https://github.com/viduna1/Alpha-Net">
     
-<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/viduna1/Alpha-Net/followers"><img title="Followers" src="https://img.shields.io/github/followers/viduna1?color=blue&style=flat-square"></a>
+<a href="https://github.com/viduna1/Alpha-Net/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/viduna1/Alpha-Net?color=blue&style=flat-square"></a>
+<a href="https://github.com/viduna1/Alpha-Net/network/members"><img title="Forks" src="https://img.shields.io/github/forks/viduna1/Alpha-Net?color=blue&style=flat-square"></a>
+<a href="https://github.com/viduna1/Alpha-Net/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/viduna1/Alpha-Net?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
